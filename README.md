@@ -16,7 +16,9 @@ Before running this Terraform project, ensure you have:
 
 - **AWS Account** – Sign up at [AWS Console](https://aws.amazon.com/)  
 - **Terraform Installed** – Follow the [installation guide](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)  
-- **AWS CLI Configured** – Run the following command:  
+- **AWS CLI Configured** – Run the following command:
+    ```bash
+  aws configure
 
 ---
 
